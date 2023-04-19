@@ -1,31 +1,34 @@
 # Kitchen-Sink Suggestions
 
-Mods I will NOT include:
+# Mods I will NOT include:
 
-Gregtech
+**Gregtech**
 
 Reason: Completely overhauls the game, and is a complete pain in terms of compatibilities
 
-Terrafirmacraft
+**Terrafirmacraft**
 
 Reason: Same as above, but is even more of a pain
 
-Any mods that SIGNIFICANTLY increase loading time
+**Any mods that SIGNIFICANTLY increase loading time**
 
 Examples:
 
 Decocraft
 
-Any mods replaced by already existing mods
+**Any mods replaced by already existing mods**
 
 Common Examples:
 
 AttributeFix
+
 Fast Leaf Decay
 
 
-Incompatible Mods:
+# Incompatible Mods:
 
-WarpDrive \n
-TechGuns \n
-ReachFix \n
+WarpDrive
+
+TechGuns 
+
+ReachFix
