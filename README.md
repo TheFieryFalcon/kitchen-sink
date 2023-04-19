@@ -26,6 +26,6 @@ Fast Leaf Decay
 
 Incompatible Mods:
 
-WarpDrive
-TechGuns
-ReachFix
+WarpDrive \n
+TechGuns \n
+ReachFix \n
