@@ -22,3 +22,10 @@ Common Examples:
 
 AttributeFix
 Fast Leaf Decay
+
+
+Incompatible Mods:
+
+WarpDrive
+TechGuns
+ReachFix
